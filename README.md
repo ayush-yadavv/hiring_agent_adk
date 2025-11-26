@@ -85,14 +85,6 @@ GOOGLE_API_KEY=your_google_api_key_here
 # GITHUB_TOKEN=your_github_token_here
 ```
 
-## Usage
-
-Run the main application:
-
-```bash
-python agent.py
-```
-
 ## Security
 
 - Never commit your `.env` file to version control
